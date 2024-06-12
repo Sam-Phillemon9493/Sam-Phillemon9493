@@ -1,6 +1,14 @@
 ## Hi there 👋
-
-<a href="https://app.daily.dev/sam_phillemon"><img src="https://api.daily.dev/devcards/v2/vD9lziiFO1OnRstxBF7IC.png?r=0o0&type=wide" width="652" alt="Sam Phillemon's Dev Card"/></a>
+```javascript
+let AboutMe = {
+    name: "Sam Phillemon",
+    pronouns: ["he","him"],
+    profession: "React Developer @ QED42",
+    hasUsed: ["react", "javascript", "NextJs" ,"Context API", "tailwindcss", "Redux"],
+    currently_learning: ["React Native"],
+    hobbies: ["Gaming", "Cricket", "Movies", "Cooking"],
+}
+```
 <!--
 **Sam-Phillemon9493/Sam-Phillemon9493** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
