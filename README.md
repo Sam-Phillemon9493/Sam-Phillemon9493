@@ -5,7 +5,6 @@ let AboutMe = {
     pronouns: ["he","him"],
     profession: "React Developer @ QED42",
     hasUsed: ["react", "javascript", "NextJs" ,"Context API", "tailwindcss", "Redux"],
-    currently_learning: ["React Native"],
     hobbies: ["Gaming", "Cricket", "Movies", "Cooking"],
 }
 ```
