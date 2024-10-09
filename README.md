@@ -3,7 +3,7 @@
 let AboutMe = {
     name: "Sam Phillemon",
     pronouns: ["he","him"],
-    profession: "React Developer @ QED42",
+    profession: "FrontEnd Developer @ QED42",
     hasUsed: ["react", "javascript", "NextJs" ,"Context API", "tailwindcss", "Redux"],
     hobbies: ["Gaming", "Cricket", "Movies", "Cooking"],
 }
